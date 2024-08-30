@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 #include <hip/hip_runtime.h>
 #include <mpi.h>
 #include <rccl/rccl.h>
